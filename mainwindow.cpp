@@ -99,7 +99,7 @@ void MainWindow::on_pushButton_p1_draw_clicked()
     ui->pushButton_p2_draw->setEnabled(1);
     ui->pushButton_p2_pass->setEnabled(1);
 
-    ui->label_status->setText("<a style=\"color:#B22222\">Player 2 turn</a>");
+    ui->label_status->setText("<a align=\"centre\" style=\"color:#B22222\">Player 2 turn</a>");
 
 
 }
@@ -166,7 +166,7 @@ void MainWindow::on_pushButton_p2_draw_clicked()
     ui->pushButton_p1_draw->setEnabled(1);
     ui->pushButton_p1_pass->setEnabled(1);
 
-    ui->label_status->setText("Player 1 turn");
+    ui->label_status->setText("<a align=\"centre\">Player 1 turn</a>");
 
 }
 
