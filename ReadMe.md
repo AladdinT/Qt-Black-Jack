@@ -42,6 +42,4 @@ and each card has a point value as follows:
 ## Demo
 Check out this gameplay video preview to see the Black Jack Card Game in action:
 
-<video width=45% controls>
-  <source src="./demo.mp4" type="video/mp4">
-</video>
+<img src="./demo.gif" width="45%">
