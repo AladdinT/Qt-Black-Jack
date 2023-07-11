@@ -40,11 +40,8 @@ and each card has a point value as follows:
 - An Ace can be worth either 1 or 11 points, depending on which value would be more beneficial for the player.
 
 ## Demo
-
-## Demo
-
 Check out this gameplay video preview to see the Black Jack Card Game in action:
 
-<video width="640" height="360" controls>
+<video width=45% controls>
   <source src="./demo.mp4" type="video/mp4">
 </video>
