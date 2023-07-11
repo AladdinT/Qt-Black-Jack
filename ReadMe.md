@@ -31,9 +31,7 @@ To run the game, follow these steps:
 ## How to Play
 
 The game is played with a standard deck of 52 cards. The objective of the game is to get as close to 21 points as possible without exceeding it. The player and the dealer are both dealt two cards at the beginning of the game. The player can choose to hit (draw another card) or stand (keep the current cards). 
-
-The game includes a simple betting system, where the player can bet a certain amount of chips before starting the game. If the player wins the game, they receive double the amount of their bet. If the player loses the game, they lose their bet.
-and each card has a point value as follows:
+each card has a point value as follows:
 
 - Cards 2 to 10 are worth their face value.
 - Face cards (Jack, Queen, and King) are worth 10 points each.
